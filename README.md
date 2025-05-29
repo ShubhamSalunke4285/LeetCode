@@ -7,6 +7,7 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0001-two-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
