@@ -8,6 +8,7 @@ DSA solutions for Leetcode Problems
 | ------- |
 | [0001-two-sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -29,4 +31,5 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
