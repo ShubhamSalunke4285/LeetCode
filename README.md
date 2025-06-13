@@ -8,6 +8,7 @@ DSA solutions for Leetcode Problems
 | ------- |
 | [0001-two-sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -51,5 +53,6 @@ DSA solutions for Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
