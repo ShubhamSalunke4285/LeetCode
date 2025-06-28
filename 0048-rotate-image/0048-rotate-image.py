@@ -20,8 +20,8 @@ class Solution(object):
         #             matrix[i][j] = matrix1[2][i]
         #         if j == 1:
         #             matrix[i][j] = matrix1[1][i]
-        #         # if j == 2:
-        #         #     matrix[i][j] = matrix1[0][i]
+        #         if j == 2:
+        #             matrix[i][j] = matrix1[0][i]
         # return matrix
 
         n = len(matrix)
