@@ -3,7 +3,6 @@ class Solution(object):
         if not nums:
             return []
 
-        # Step 1: Find candidates
         count1, count2, candidate1, candidate2 = 0, 0, None, None
 
         for num in nums:
