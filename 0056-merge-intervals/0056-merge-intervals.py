@@ -1,16 +1,5 @@
 class Solution(object):
     def merge(self, intervals):
-        # op=[]
-        # i = 0
-        # while i < len(intervals):
-        # # for i in range(len(intervals)):
-        #     if intervals[i][1] > intervals[i+1][0]:
-        #         op.append([intervals[i][0],intervals[i+1][1]])
-        #         i+=2
-        #     elif intervals[i][1] < intervals[i+1][0]:
-        #         op.append()
-        # return op
-
         op = intervals
         op.sort()
         n = len(intervals)
