@@ -55,6 +55,7 @@ DSA solutions for Leetcode Problems
 | [0048-rotate-image](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0268-missing-number) |
+| [1585-the-kth-factor-of-n](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 ## Recursion
 |  |
 | ------- |
@@ -145,4 +146,8 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
