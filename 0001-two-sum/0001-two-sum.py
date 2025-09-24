@@ -12,4 +12,3 @@ class Solution(object):
             if complement in hashmap:
                 return [hashmap[complement], i]
             hashmap[num] = i
-
