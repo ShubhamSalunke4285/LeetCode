@@ -7,4 +7,7 @@ class Solution(object):
             result = (result*10) + id
             num = num//10
         return x == result
+
+
+
         
