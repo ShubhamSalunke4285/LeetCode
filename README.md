@@ -55,11 +55,13 @@ DSA solutions for Leetcode Problems
 | [0048-rotate-image](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@ DSA solutions for Leetcode Problems
 | [0118-pascals-triangle](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -150,4 +153,8 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
