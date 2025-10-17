@@ -157,4 +157,8 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
