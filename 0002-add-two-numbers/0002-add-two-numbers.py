@@ -41,19 +41,3 @@ class Solution(object):
         if carry > 0:
             temp.next = ListNode(carry)
         return head
-
-        # a = 0
-        # for i in l1:
-        #     a = a*10 + i
-        # a1=str(a)
-
-        # b = 0
-        # for i in l2:
-        #     b = b*10 + i
-        # b1= str(b)
-
-        # c = str(int(a1[::-1]) + int(b1[::-1]))
-        # f=[]
-        # for i in c[::-1]:
-        #     f.append(i)
-        # print(f)
