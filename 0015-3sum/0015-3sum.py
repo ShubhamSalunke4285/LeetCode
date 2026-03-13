@@ -33,4 +33,3 @@ class Solution(object):
                     right -= 1  # Decrease the sum
 
         return res
-                
