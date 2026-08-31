@@ -7,6 +7,7 @@ DSA solutions for Leetcode Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -66,6 +67,7 @@ DSA solutions for Leetcode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -171,4 +173,8 @@ DSA solutions for Leetcode Problems
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
