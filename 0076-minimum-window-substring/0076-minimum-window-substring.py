@@ -1,6 +1,6 @@
 class Solution(object):
     def minWindow(self, s, t):
-        if not s or not t or len(t)>len(s):
+        if not s or not t or len(s)<len(t):
             return ""
 
         need={}
