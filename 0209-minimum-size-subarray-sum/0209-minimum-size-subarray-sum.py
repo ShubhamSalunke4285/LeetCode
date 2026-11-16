@@ -5,6 +5,9 @@ class Solution(object):
         curr_len =0
 
         for right in range(len(nums)):
+            if nums[right] >= target:
+                return 1
+                
             curr_len += nums[right]
 
             while curr_len >= target:
