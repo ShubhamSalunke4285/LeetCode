@@ -49,6 +49,7 @@ DSA solutions for Leetcode Problems
 | [0169-majority-element](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -195,10 +196,12 @@ DSA solutions for Leetcode Problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShubhamSalunke4285/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
