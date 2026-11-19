@@ -4,7 +4,7 @@ class Solution(object):
             return len(nums)
         if nums.count(0) == len(nums):
             return k
-            
+
         left = 0
         zeros_count = 0
         max_len =0
@@ -13,7 +13,7 @@ class Solution(object):
             if nums[right] == 0:
                 zeros_count += 1
 
-            if zeros_count > k:
+            while zeros_count > k:
                 if nums[left] == 0:
                     zeros_count -= 1
                 left +=1
