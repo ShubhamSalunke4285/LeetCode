@@ -2,7 +2,9 @@ class Solution(object):
     def longestOnes(self, nums, k):
         if nums.count(0) <= k:
             return len(nums)
-        
+        if nums.count(0) == len(nums):
+            return k
+            
         left = 0
         zeros_count = 0
         max_len =0
